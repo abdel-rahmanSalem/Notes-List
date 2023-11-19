@@ -33,7 +33,7 @@ To get started with this project, follow these steps:
 
     ```bash
     git clone https://github.com/dev-abdo-salem/Notes-List.git
-    cd Notes-List.git
+    cd Notes-List
 
 2. Install dependencies:
 
